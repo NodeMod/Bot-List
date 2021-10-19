@@ -1,0 +1,106 @@
+.home {
+    position: absolute;
+    font-size: 27px;
+    left: 43%;
+    top: 30px;
+    font-family: 'Spartan', sans-serif;
+    text-decoration: none;
+    z-index: 1;
+    list-style: none;
+}
+.explore {
+    position: absolute;
+    left: 54%;
+    top: 30px;
+    font-size: 27px;
+    font-family: 'Spartan', sans-serif;
+    text-decoration: none;
+    z-index: 1;
+}
+.discord {
+    position: absolute;
+    left: 66%;
+    font-size: 27px;
+    top: 30px;
+    font-family: 'Spartan', sans-serif;
+    text-decoration: none;
+    z-index: 1;
+}
+.support {
+    position: absolute;
+    top: 30px;
+    left: 85%;
+    font-size: 27px;
+    font-family: 'Spartan', sans-serif;
+    text-decoration: none;
+    z-index: 1;
+}
+
+.quadrato {
+	height:100px;
+	background:#cefe00;
+    position: absolute;
+    width: 100%;
+    z-index: 0;
+    top: 0%;
+    left: 0%;
+    right: 0%;
+    box-shadow: 0px 0px 20px #cefe09;
+}
+
+.body {
+    background-color: #2e2e2e;
+}
+
+.logoup {
+    z-index: 1;
+    top: -10px;
+    width: 170px;
+    position: absolute;
+    left: 0px;
+}
+
+#h1 {
+    color: ivory;
+    font-family: 'Spartan', sans-serif;
+}
+
+.case1 {
+    position: relative;
+    top: 200px;
+    height: 100px;
+    width: 400px;
+    left: 400px;
+    border-style: solid;
+    border-radius: 10%;
+    border-width: 5px;
+    border-color: ivory;
+    align-items: center;
+}
+.text {
+    color: ivory;
+    text-align: center;
+    font-family: 'Spartan', sans-serif;
+}
+.par {
+    color: ivory;
+    text-align: center;
+    font-family: 'Spartan', sans-serif;
+}
+
+.logoBot {
+    width: 100px;
+    height: 100px;
+}
+
+.invitebutt {
+    font-size: 20px;
+    color: white;
+    background-color: darkslateblue;
+    border-radius: 5%;
+    border-width: 0px;
+    font-family: 'Spartan', sans-serif;
+    width: 150px;
+    height: 50px;
+    border-style: solid;
+}
